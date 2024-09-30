@@ -1,0 +1,10 @@
+.nav-item {
+  margin-left: 40px;
+}
+
+.text-center {
+  text-align: center;
+  display: block;
+  unicode-bidi: isolate;
+  font-size: small;
+}
